@@ -1,4 +1,4 @@
-package com.hiremarknolan.android_party_compose.ui.theme
+package com.hiremarknolan.android_party_compose.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

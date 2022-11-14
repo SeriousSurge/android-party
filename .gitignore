@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -15,9 +13,4 @@
 .externalNativeBuild
 .cxx
 local.properties
-=======
-.DS_Store
->>>>>>> 1c51436cab7625af0d323c258eaeceddade77692
-=======
-.DS_Store
->>>>>>> 1c51436cab7625af0d323c258eaeceddade77692
+.DS_Store 1c51436cab7625af0d323c258eaeceddade77692

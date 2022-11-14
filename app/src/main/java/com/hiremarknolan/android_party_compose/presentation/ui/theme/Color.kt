@@ -1,4 +1,4 @@
-package com.hiremarknolan.android_party_compose.ui.theme
+package com.hiremarknolan.android_party_compose.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
